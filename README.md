@@ -1,3 +1,5 @@
+### Hi there 👋
+
 # Aziz Chouchi - Frontend Developer 🚀
 
 Passionate about creating seamless user experiences, I'm Aziz Chouchi, a frontend developer based in Tunisia. With a knack for problem-solving and a commitment to delivering high-quality work, I thrive on tackling complex challenges and crafting awesome interfaces with a focus on UI/UX measures.
