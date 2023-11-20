@@ -19,8 +19,8 @@ I regularly share my insights and experiences on my blog and dev.to.
 Feel free to reach out for discussions on Next.js, Node.js, MongoDB, Express.js, MERN Stack, Adobe Photoshop, and teamwork.
 
 ## 📫 Contact Me
-Email: aziz.chouchi@emailprovider.com
-LinkedIn: Aziz Chouchi - LinkedIn
+Email: medaziz.chouchi@gmail.com <br>
+LinkedIn: Aziz Chouchi - <a href="https://www.linkedin.com/in/aziz-chouchi-799bbb191/" >LinkedIn</a>
 ## 📄 Experience
 Check out details about my professional journey in my resume.
 
@@ -31,7 +31,7 @@ I love coding while watching my favorite TV show! 📺😄
 Next.js | Node.js | MongoDB | Express.js | MERN Stack | Adobe Photoshop | Design graphique | Adobe Premiere Pro | HTML5 | Bootstrap | JavaScript | jQuery | CSS3 | AngularJS | Spring Boot | MySQL | Symfony | Adobe XD | Codename one | JavaFX | Framework Symfony | Cross-platform Development | Feuilles de style en cascade (CSS) | PHP | Chart.js | TypeScript | Vue.js | Vuetify | Webpack | XD
 
 ## 🌐 Connect with Me
-GitHub: M0Aziz
+GitHub: M0Aziz<br>
 behance: medazizchouchi
 ## 📚 Support
 If you find my work helpful, consider supporting it by buying me a coffee. Cheers! ☕️
