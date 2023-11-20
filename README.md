@@ -20,8 +20,10 @@ I regularly share my insights and experiences on my  [Linkedin](https://www.link
 Feel free to reach out for discussions on Next.js, Node.js, MongoDB, Express.js, MERN Stack, Adobe Photoshop, and teamwork.
 
 ## 📫 Contact Me
-- Email: medaziz.chouchi@gmail.com
-- LinkedIn: [Aziz Chouchi - LinkedIn](https://www.linkedin.com/in/aziz-chouchi-799bbb191/)
+
+- Email: [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:medaziz.chouchi@gmail.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aziz-chouchi-799bbb191/)
+
 
 ## 📄 Experience
 Check out details about my professional journey in [my resume](https://github.com/M0Aziz/resume/blob/main/CV_MedAzizCh-.pdf).
