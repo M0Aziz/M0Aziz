@@ -29,7 +29,7 @@ Check out details about my professional journey in [my resume](https://azizchouc
 ## ⚡ Fun Fact
 I love coding while watching my favorite TV show! 📺😄
 
-## 🚀 Technologies & Outils
+## 🚀 Technologies & Tools
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
