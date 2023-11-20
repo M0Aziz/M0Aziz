@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 # Aziz Chouchi - Frontend Developer 🚀
 
 Passionate about creating seamless user experiences, I'm Aziz Chouchi, a frontend developer based in Tunisia. With a knack for problem-solving and a commitment to delivering high-quality work, I thrive on tackling complex challenges and crafting awesome interfaces with a focus on UI/UX measures.
@@ -40,7 +37,6 @@ Next.js | Node.js | MongoDB | Express.js | MERN Stack | Adobe Photoshop | Design
 
 ## 📚 Support
 If you appreciate my work and it has been helpful, you can show your support by treating me to a refreshing drink. Cheers! 🥂
-<!--If you find my work helpful, consider supporting it by buying me a coffee. Cheers! ☕️
 
 
 
