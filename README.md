@@ -39,7 +39,8 @@ Next.js | Node.js | MongoDB | Express.js | MERN Stack | Adobe Photoshop | Design
 - Discord: Aziz Chouchi#1234
 
 ## 📚 Support
-If you find my work helpful, consider supporting it by buying me a coffee. Cheers! ☕️
+If you appreciate my work and it has been helpful, you can show your support by treating me to a refreshing drink. Cheers! 🥂
+<!--If you find my work helpful, consider supporting it by buying me a coffee. Cheers! ☕️
 
 
 
