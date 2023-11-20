@@ -20,7 +20,7 @@ Feel free to reach out for discussions on Next.js, Node.js, MongoDB, Express.js,
 
 ## 📫 Contact Me
 Email: medaziz.chouchi@gmail.com <br>
-LinkedIn: Aziz Chouchi - <a target="_blank" href="https://www.linkedin.com/in/aziz-chouchi-799bbb191/" >LinkedIn</a>
+LinkedIn: Aziz Chouchi - <a  href="https://www.linkedin.com/in/aziz-chouchi-799bbb191/" target="_blank" >LinkedIn</a>
 ## 📄 Experience
 Check out details about my professional journey in my resume.
 
