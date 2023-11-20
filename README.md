@@ -24,7 +24,7 @@ Feel free to reach out for discussions on Next.js, Node.js, MongoDB, Express.js,
 - LinkedIn: [Aziz Chouchi - LinkedIn](https://www.linkedin.com/in/aziz-chouchi-799bbb191/)
 
 ## 📄 Experience
-Check out details about my professional journey in [my resume](https://azizchouchi.github.io/resume/).
+Check out details about my professional journey in [my resume](https://github.com/M0Aziz/resume/blob/main/CV_MedAzizCh-.pdf).
 
 ## ⚡ Fun Fact
 I love coding while watching my favorite TV show! 📺😄
