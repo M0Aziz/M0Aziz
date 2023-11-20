@@ -30,7 +30,9 @@ Check out details about my professional journey in [my resume](https://azizchouc
 I love coding while watching my favorite TV show! 📺😄
 
 ## 🚀 Technologies & Tools
+
 Next.js | Node.js | MongoDB | Express.js | MERN Stack | Adobe Photoshop | Design graphique | Adobe Premiere Pro | HTML5 | Bootstrap | JavaScript | jQuery | CSS3 | AngularJS | Spring Boot | MySQL | Symfony | Adobe XD | Codename one | JavaFX | Framework Symfony | Cross-platform Development | Feuilles de style en cascade (CSS) | PHP | Chart.js | TypeScript | Vue.js | Vuetify | Webpack | XD
+
 
 ## 🌐 Connect with Me
 - GitHub: [azizchouchi](https://github.com/M0Aziz/)
