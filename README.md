@@ -21,8 +21,8 @@ Feel free to reach out for discussions on Next.js, Node.js, MongoDB, Express.js,
 
 ## 📫 Contact Me
 
-- Email: [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:medaziz.chouchi@gmail.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aziz-chouchi-799bbb191/)
+- ![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail) Email: [medaziz.chouchi@gmail.com](mailto:medaziz.chouchi@gmail.com)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin) LinkedIn: [Aziz Chouchi](https://www.linkedin.com/in/aziz-chouchi-799bbb191/)
 
 
 ## 📄 Experience
