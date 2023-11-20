@@ -41,21 +41,11 @@ I love coding while watching my favorite TV show! 📺😄
 ![Nexus](https://img.shields.io/badge/-Nexus-FC4D00?style=flat-square&logo=sonatype-nexus&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat-square)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-
-## 🎨 Design
-
-![3D Animation](https://img.shields.io/badge/-3D%20Animation-1572B6?style=flat-square)
-![3D Character Animator](https://img.shields.io/badge/-3D%20Character%20Animator-1572B6?style=flat-square)
-![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
-![Brand Strategy](https://img.shields.io/badge/-Brand%20Strategy-31A8FF?style=flat-square)
-
-## 🔄 Développement
-
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![MERN Full-stack](https://img.shields.io/badge/-MERN%20Full-stack-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=black)
 ![Cross-platform Development](https://img.shields.io/badge/-Cross%20platform%20Development-000?style=flat-square)
 ![Designer & Développeur](https://img.shields.io/badge/-Designer%20&%20Développeur-333333?style=flat-square)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square)
@@ -82,14 +72,14 @@ I love coding while watching my favorite TV show! 📺😄
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Autodesk 3ds Max](https://img.shields.io/badge/-Autodesk%203ds%20Max-1572B6?style=flat-square)
-
-## 🤝 Soft Skills
-
+![3D Animation](https://img.shields.io/badge/-3D%20Animation-1572B6?style=flat-square)
+![3D Character Animator](https://img.shields.io/badge/-3D%20Character%20Animator-1572B6?style=flat-square)
+![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
+![Brand Strategy](https://img.shields.io/badge/-Brand%20Strategy-31A8FF?style=flat-square)
 ![Travail d’équipe](https://img.shields.io/badge/-Travail%20d’équipe-5C5C5C?style=flat-square)
 ![Anglais](https://img.shields.io/badge/-Anglais-1572B6?style=flat-square)
-
-
-
+![Easily Adaptable](https://img.shields.io/badge/-Easily%20Adaptable-78BEB2?style=flat-square)
+![Gestion du stress](https://img.shields.io/badge/-Gestion%20du%20stress-86C232?style=flat-square)
 
 
 
