@@ -8,7 +8,7 @@ Passionate about creating seamless user experiences, I'm Aziz Chouchi, a Full St
 I'm currently expanding my skill set by exploring Web3 Technologies.
 
 ## 👯 Looking to Collaborate
-I'm open to collaboration on long-term projects that involve innovative frontend development.
+I'm open to collaboration on long-term projects that involve innovative full-stack development, encompassing both frontend and backend expertise.
 
 ## 👨‍💻 Projects Portfolio
 Explore all of my projects on my [Behance](https://www.behance.net/medazizchouchi).
