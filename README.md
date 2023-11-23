@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# Aziz Chouchi - Frontend Developer 🚀
+# Aziz Chouchi - Full Stack Developer 🚀
 
-Passionate about creating seamless user experiences, I'm Aziz Chouchi, a frontend developer based in Tunisia. With a knack for problem-solving and a commitment to delivering high-quality work, I thrive on tackling complex challenges and crafting awesome interfaces with a focus on UI/UX measures.
+Passionate about creating seamless user experiences, I'm Aziz Chouchi, a Full Stack developer based in Tunisia. With a knack for problem-solving and a commitment to delivering high-quality work, I thrive on tackling complex challenges and crafting awesome interfaces with a focus on UI/UX measures.
 
 ## 🌱 Currently Learning
 I'm currently expanding my skill set by exploring Web3 Technologies.
@@ -17,7 +17,7 @@ Explore all of my projects on my [Behance](https://www.behance.net/medazizchouch
 I regularly share my insights and experiences on my  [Linkedin](https://www.linkedin.com/in/aziz-chouchi-799bbb191/) and [Behance](https://www.behance.net/medazizchouchi).
 
 ## 💬 Ask Me About
-Feel free to reach out for discussions on Next.js, Node.js, MongoDB, Express.js, MERN Stack, Adobe Photoshop, and teamwork.
+Feel free to reach out for discussions on Next.js, Node.js, MongoDB, Express.js, Angular, Spring Boot, Symfony, Adobe Photoshop, and teamwork.
 
 ## 📫 Contact Me
 
@@ -94,9 +94,10 @@ I love coding while watching my favorite TV show! 📺😄
 
 
 ## 🌐 Connect with Me
-- GitHub: [azizchouchi](https://github.com/M0Aziz/)
-- Behance: [azizchouchi](https://www.behance.net/medazizchouchi)
-- Discord: Aziz Chouchi#1234
+- GitHub: [Aziz Chouchi](https://github.com/M0Aziz/)
+- Behance: [Aziz Chouchi](https://www.behance.net/medazizchouchi)
+- Linkedin: [Aziz Chouchi](https://www.linkedin.com/in/aziz-chouchi-799bbb191/)
+- Facebook : [Aziz Chouchi](https://www.facebook.com/medaziz7)
 
 ## 📚 Support
 If you appreciate my work and it has been helpful, you can show your support by treating me to a refreshing drink. Cheers! 🥂
