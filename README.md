@@ -5,7 +5,8 @@
 Passionate about creating seamless user experiences, I'm Aziz Chouchi, a Full Stack developer based in Tunisia. With a knack for problem-solving and a commitment to delivering high-quality work, I thrive on tackling complex challenges and crafting awesome interfaces with a focus on UI/UX measures.
 
 ## 🌱 Currently Learning
-I'm currently expanding my skill set by exploring Web3 Technologies.
+<!-- I'm currently expanding my skill set by exploring Web3 Technologies. -->
+I'm currently specializing in Full Stack Development. Proficient in Microservices architecture and an avid user of GitHub. I bring innovation and adaptability to every project. Actively seeking opportunities to leverage my skills and contribute to dynamic and creative teams.
 
 ## 👯 Looking to Collaborate
 I'm open to collaboration on long-term projects that involve innovative full-stack development, encompassing both frontend and backend expertise.
