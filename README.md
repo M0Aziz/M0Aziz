@@ -27,7 +27,7 @@ Feel free to reach out for discussions on Next.js, Node.js, MongoDB, Express.js,
 
 
 ## 📄 Experience
-Check out details about my professional journey in [my resume](https://github.com/M0Aziz/resume/blob/main/CV_MedAzizCh-.pdf).
+Check out details about my professional journey in [my resume](https://github.com/M0Aziz/resume/blob/main/CV-MedAzizChouchi.pdf).
 
 ## ⚡ Fun Fact
 I love coding while watching my favorite TV show! 📺😄
