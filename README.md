@@ -12,7 +12,8 @@ I'm currently specializing in Full Stack Development. Proficient in Microservice
 I'm open to collaboration on long-term projects that involve innovative full-stack development, encompassing both frontend and backend expertise.
 
 ## 👨‍💻 Projects Portfolio
-Explore all of my projects on my [Behance](https://www.behance.net/medazizchouchi).
+<!-- Explore all of my projects on my [Behance](https://www.behance.net/medazizchouchi). -->
+Explore all of my projects on my [Behance](https://www.behance.net/medazizchouchi) and [website](https://m0aziz.github.io/Portfolio/).
 
 ## 📝 Writing
 I regularly share my insights and experiences on my  [Linkedin](https://www.linkedin.com/in/aziz-chouchi-799bbb191/) and [Behance](https://www.behance.net/medazizchouchi).
