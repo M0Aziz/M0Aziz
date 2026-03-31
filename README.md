@@ -49,7 +49,8 @@ I regularly share insights on:
 * UI/UX design & digital innovation
 
 * EdTech and educational technology solutions
-[Linkedin](https://www.linkedin.com/in/aziz-chouchi-799bbb191/) and [Behance](https://www.behance.net/medazizchouchi).
+
+Follow me on [Linkedin](https://www.linkedin.com/in/aziz-chouchi-799bbb191/) and [Behance](https://www.behance.net/medazizchouchi).
 
 ## 💬 Ask Me About
 <!--Feel free to reach out for discussions on Next.js, Node.js, MongoDB, Express.js, Angular, Spring Boot, Symfony, Adobe Photoshop, and teamwork.-->
