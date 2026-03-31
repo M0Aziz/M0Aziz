@@ -70,15 +70,15 @@ Feel free to reach out to discuss:
 
 ## 🔑 Core Skills
 
-Full Stack Development
+* Full Stack Development
 
-Microservices & API design
+* Microservices & API design
 
-Spring Boot / Node.js / Express.js / Angular / React.js
+* Spring Boot / Node.js / Express.js / Angular / React.js
 
-DevOps & CI/CD
+* DevOps & CI/CD
 
-UI/UX Design & Digital Innovation
+* UI/UX Design & Digital Innovation
 
 ## 📫 Contact Me
 
