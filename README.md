@@ -1,25 +1,83 @@
 ### Hi there 👋
 
-# Aziz Chouchi - Full Stack Developer 🚀
+# Aziz Chouchi - Full Stack Engineer & Digital Innovator 🚀
 
-Passionate about creating seamless user experiences, I'm Aziz Chouchi, a Full Stack developer based in Tunisia. With a knack for problem-solving and a commitment to delivering high-quality work, I thrive on tackling complex challenges and crafting awesome interfaces with a focus on UI/UX measures.
+<!-- Passionate about creating seamless user experiences, I'm Aziz Chouchi, a Full Stack developer based in Tunisia. With a knack for problem-solving and a commitment to delivering high-quality work, I thrive on tackling complex challenges and crafting awesome interfaces with a focus on UI/UX measures. -->
+I’m a Full Stack Engineer specialized in Microservices, Cloud Native architectures, DevOps, and UI/UX design. Based in Tunisia, I thrive on creating scalable, high-quality software solutions that blend technology, design, and innovation.
+With a background in multimedia and digital education, I bring a unique hybrid profile capable of delivering solutions that are both technically robust and user-centric.
 
 ## 🌱 Currently Learning
-<!-- I'm currently expanding my skill set by exploring Web3 Technologies. -->
-I'm currently specializing in Full Stack Development. Proficient in Microservices architecture and an avid user of GitHub. I bring innovation and adaptability to every project. Actively seeking opportunities to leverage my skills and contribute to dynamic and creative teams.
+<!-- I'm currently expanding my skill set by exploring Web3 Technologies. 
+I'm currently specializing in Full Stack Development. Proficient in Microservices architecture and an avid user of GitHub. I bring innovation and adaptability to every project. Actively seeking opportunities to leverage my skills and contribute to dynamic and creative teams. -->
+I continuously explore new technologies and frameworks to enhance my Full Stack capabilities, including:
+
+* Frontend: React.js, Angular, Next.js
+
+* Backend: Node.js, Express.js, Spring Boot, Symfony
+
+* Cloud & DevOps: Docker, Jenkins, CI/CD pipelines, Microservices architectures
+
+* UI/UX & Digital Design: Adobe XD, Canva, interactive platforms
+I aim to stay at the cutting edge of innovation and digital transformation.
 
 ## 👯 Looking to Collaborate
-I'm open to collaboration on long-term projects that involve innovative full-stack development, encompassing both frontend and backend expertise.
+<!--I'm open to collaboration on long-term projects that involve innovative full-stack development, encompassing both frontend and backend expertise.-->
+I’m open to collaborating on innovative full-stack projects, including:
+
+* SaaS platforms
+
+* Digital transformation initiatives
+
+* EdTech solutions
+
+* Scalable web applications
+If your project requires Full Stack expertise combined with design thinking and a user-first approach, let’s connect!
 
 ## 👨‍💻 Projects Portfolio
 <!-- Explore all of my projects on my [Behance](https://www.behance.net/medazizchouchi). -->
 Explore all of my projects on my [Behance](https://www.behance.net/medazizchouchi) and [website](https://m0aziz.github.io/Portfolio/).
 
 ## 📝 Writing
-I regularly share my insights and experiences on my  [Linkedin](https://www.linkedin.com/in/aziz-chouchi-799bbb191/) and [Behance](https://www.behance.net/medazizchouchi).
+I regularly share insights on:
+
+* Full Stack Development
+
+* Microservices & Cloud Native architectures
+
+* DevOps practices & CI/CD
+
+* UI/UX design & digital innovation
+
+* EdTech and educational technology solutions
+[Linkedin](https://www.linkedin.com/in/aziz-chouchi-799bbb191/) and [Behance](https://www.behance.net/medazizchouchi).
 
 ## 💬 Ask Me About
-Feel free to reach out for discussions on Next.js, Node.js, MongoDB, Express.js, Angular, Spring Boot, Symfony, Adobe Photoshop, and teamwork.
+<!--Feel free to reach out for discussions on Next.js, Node.js, MongoDB, Express.js, Angular, Spring Boot, Symfony, Adobe Photoshop, and teamwork.-->
+Feel free to reach out to discuss:
+
+* Full Stack Development
+
+* Microservices & Cloud architectures
+
+* DevOps & CI/CD pipelines
+
+* UI/UX design & product experience
+
+* SaaS & EdTech solutions
+
+* Collaboration on innovative projects
+
+## 🔑 Core Skills
+
+Full Stack Development
+
+Microservices & API design
+
+Spring Boot / Node.js / Express.js / Angular / React.js
+
+DevOps & CI/CD
+
+UI/UX Design & Digital Innovation
 
 ## 📫 Contact Me
 
